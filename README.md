@@ -2,6 +2,7 @@
 Projects I completed for a 200-level software development methods class
 
 Class Description:
+
   Linux command-line basics
   Multi-version software development
   Software documentation
